@@ -2,7 +2,7 @@
 A Simple Minimal Python Program that plays audios in the terminal
 This project is a **terminal-based audio visualizer** that plays an audio file while showing a real-time frequency visualizer alongside an image or video rendered as **ASCII art** — all with theme support and animations.
 
-Disclamer : We Do Not Provide Any Songs Or Music , We Do Not Condone Piracy , Just a simple audio player with cover art 
+Disclamer : I Do Not Provide Any Songs Or Music , I Do Not Condone Piracy , Just a simple audio player with cover art 
 
 -<img width="1920" height="1080" alt="Untitled(1)" src="https://github.com/user-attachments/assets/e0ebb5cf-1747-48a7-9639-d02eaf9a1f81" />
 
